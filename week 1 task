@@ -1,0 +1,4 @@
+<?php
+$msg = "<b>olaoye ayomide samuel<b/>";
+echo $msg;
+?>
